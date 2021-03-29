@@ -7,7 +7,7 @@
 
 ## Overview
 ### Description
-We aim to create a next-gen dating application that revolutionises the online dating scenario for Gen-z. Our dating app will add the feature of ‘auctioning’ your friends/family on the app, as a fun social social component.
+We aim to create a next-gen dating application that revolutionises the online dating scenario for Gen-z. Our dating app will add the feature of ‘auctioning’ your friends/family on the app, as a fun social component.
 
 ### App Evaluation
 - **Category:** Social Networking 
@@ -24,7 +24,7 @@ We aim to create a next-gen dating application that revolutionises the online da
 
 * User logs in to access previous chats and preference settings
 * User can view posts from other users with dating profiles.
-* Bid on profiles to try and earn a date
+* User can like or dislike a post to show interest
 * User can utilize a private chat feature to communicate with others
 * Settings (Accesibility, Notification, General, etc.)
 
@@ -61,7 +61,7 @@ We aim to create a next-gen dating application that revolutionises the online da
 **Flow Navigation** (Screen to Screen)
 * Forced Log-in -> Account creation if no log in is available
 * Select post -> Jump to large view post
-* Place bid -> Jump to chat with the other user
+* Like a post -> Jump to chat with the other user
 * Profile -> Shows users own profile with option to edit
 * Settings -> Toggle settings
 
