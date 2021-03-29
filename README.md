@@ -68,4 +68,5 @@ We aim to create a next-gen dating application that revolutionises the online da
 ## Wireframes
 <img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
 
+## Schema
 
