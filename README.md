@@ -69,4 +69,23 @@ We aim to create a next-gen dating application that revolutionises the online da
 <img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
 
 ## Schema
+**Posts**
+| Property | Type | Description |
+| --- | --- | --- |
+| name | String | Name of person being posted|
+| age | Number | Age of person being posted |
+| location | String | location of the person |
+| interests | String | description of interests |
+| pros+cons | String | description of pros and cons of person |
+| images | File | images of person being posted about |
+| liked | Boolean | field to show if a post is liked or not |
+| instagram | String | instagram link |
+| facebook | String | facebook link|
 
+**Users**
+| Property | Type | Description |
+| --- | --- | --- |
+| username | String | Name of person being posted|
+| age | Number | Age of person being posted |
+| location | String | description of interests |
+| password | String | description of pros and cons of person |
